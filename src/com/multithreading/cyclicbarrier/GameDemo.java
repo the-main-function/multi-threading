@@ -7,7 +7,7 @@ public class GameDemo {
 	public static void main(String[] args) {
 		
 		CyclicBarrier barrier = new CyclicBarrier(5);
-		Player p1 = new Player("p1",3000,barrier);
+		Player p1 = new Player("p1",3200,barrier);
 		Player p2 = new Player("p2",5000,barrier);
 		Player p3 = new Player("p3",9000,barrier);
 		Player p4 = new Player("p4",12000,barrier);
