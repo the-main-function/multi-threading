@@ -1,4 +1,4 @@
-package com.multithreading;
+package com.multithreading.basic;
 
 class User{
 	int balance = 100;

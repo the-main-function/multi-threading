@@ -1,4 +1,4 @@
-package com.multithreading;
+package com.multithreading.basic;
 
 class ChildThread1 extends Thread{
 

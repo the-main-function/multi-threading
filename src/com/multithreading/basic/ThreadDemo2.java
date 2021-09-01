@@ -1,4 +1,4 @@
-package com.multithreading;
+package com.multithreading.basic;
 
 
 public class ThreadDemo2{
